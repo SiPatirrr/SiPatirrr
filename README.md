@@ -16,7 +16,7 @@ Saya adalah seorang **siswa SMK** yang suka belajar hal baru di dunia teknologi,
 - Otak-atik komputer & eksperimen teknologi
 
 ## 🎮 Proyek Favorit
-Salah satu karya favorit saya adalah **game 2D** yang saya buat sendiri.
+Salah satu karya favorit saya adalah game 2D **Petualangan Si Merah** yang saya buat sendiri.
 
 ## 🌐 Temukan Saya di
 - [Instagram](https://www.instagram.com/fathir.hbtlh/) <!-- Ganti dengan username -->
